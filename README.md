@@ -40,7 +40,7 @@
 ## Kurulum
 
 ### 1. Öğretmen bilgisayarı
-1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Deneme-Kurulum-x.y.z.exe** dosyasını indirin.
+1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Kurulum-x.y.z.exe** dosyasını indirin.
 2. Dosyaya çift tıklayın, lisans sözleşmesini kabul edip kurulumu tamamlayın.
 3. İlk açılışta e-posta adresinizi girip **Etkinleştir** deyin. 15 günlük deneme başlar.
 
@@ -69,7 +69,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Deneme-Kurulum-0.1.29.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.1.30.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
