@@ -69,7 +69,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Deneme-Kurulum-0.1.28.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Deneme-Kurulum-0.1.29.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
