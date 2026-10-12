@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><b>⬇️ ControlMachine-Kurulum-0.1.37.exe indir</b></a> (15 gün ücretsiz deneme)<br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.2.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.3.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
