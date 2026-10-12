@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="logo.png" alt="Control Machine" width="140">
-</p>
-
-<h1 align="center">Control Machine</h1>
-
-<p align="center">
-  Okul bilgisayar laboratuvarları için sınıf yönetim yazılımı.<br>
-  Tüm öğrenci bilgisayarları tek ekranda: izleyin, kilitleyin, yayın yapın, sınav ve yarışma başlatın.
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Kurulum-0.1.34.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇️ Son sürümü indir (15 gün ücretsiz deneme)</b></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/caglargulcek/ControlMachine?label=son%20s%C3%BCr%C3%BCm&style=for-the-badge&color=5B5BF0" alt="Son sürüm"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Kurulum-0.1.34.exe"><b>⬇️ ControlMachine-Kurulum-0.1.34.exe indir</b></a> (15 gün ücretsiz deneme)<br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Telefon-1.3.1.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
