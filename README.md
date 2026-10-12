@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Kurulum-0.1.34.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Kurulum-0.1.34.exe"><b>⬇️ ControlMachine-Kurulum-0.1.34.exe indir</b></a> (15 gün ücretsiz deneme)<br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.34/ControlMachine-Telefon-1.3.1.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><b>⬇️ ControlMachine-Kurulum-0.1.37.exe indir</b></a> (15 gün ücretsiz deneme)<br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.2.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
@@ -20,6 +20,8 @@
 - **Ekran yayını ve uzaktan yardım** — Kendi ekranınızı yansıtın, bir öğrencinin ekranını büyütüp fare ve klavyeyle yardım edin.
 - **Dosya gönder, ödev topla** — Dosya ya da klasör gönderin, ödevleri tek tıkla geri toplayın.
 - **Sınav** — Soru havuzundan sınav hazırlayın; sonuçlar PDF olarak ve e-Okul için hazır tablo olarak kaydedilir.
+- **Birden çok laboratuvar** — Aynı ağdaki laboratuvarları ayrı sınıflar olarak yönetin; her sınıf yalnız kendi bilgisayarlarını görür.
+- **Zeka Testi** — BİLSEM tarzı, soru başına süreli, geri dönüşsüz test; öğrenci sonunda hatalarını soru soru ve skor tablosunu görür.
 - **Yarışmalar ve ünite testleri** — Bilgi, zekâ, klavye ve fare yarışmaları; 5. ve 6. sınıflar için hazır, görselli ünite testleri; canlı skor tablosu.
 - **Güvenli internet** — İstenmeyen siteleri ve programları engelleyin, uygunsuz kelimelerden haberdar olun.
 - **Ders programı ve zil** — Teneffüste ekranlar kendiliğinden kilitlenir, gün sonunda bilgisayarlar kapanır.
