@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><b>⬇️ ControlMachine-Kurulum-0.1.37.exe indir</b></a> (15 gün ücretsiz deneme)<br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.3.apk">📱 Android telefon uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><b>⬇️ ControlMachine-Kurulum-0.1.37.exe indir</b></a><br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.3.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Ogrenci-Android-0.1.1.apk">📲 Android öğrenci (tablet) uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
@@ -26,23 +26,23 @@
 - **Güvenli internet** — İstenmeyen siteleri ve programları engelleyin, uygunsuz kelimelerden haberdar olun.
 - **Ders programı ve zil** — Teneffüste ekranlar kendiliğinden kilitlenir, gün sonunda bilgisayarlar kapanır.
 - **Telefondan yönetim** — Karekodu okutun, sınıfı cebinizden yönetin.
-- **Windows ve Pardus** — Windows öğrenci bilgisayarları ve Pardus akıllı tahtalar desteklenir.
+- **Windows, Pardus ve Android** — Windows öğrenci bilgisayarları, Pardus akıllı tahtalar ve Android tabletler desteklenir.
 
 ## Sistem gereksinimleri
 
 | | |
 |---|---|
 | **Öğretmen bilgisayarı** | Windows 10 / 11, 64 bit |
-| **Öğrenci bilgisayarları** | Windows 10 / 11 ya da Pardus |
+| **Öğrenci bilgisayarları** | Windows 10 / 11, Pardus ya da Android 7 ve üstü tablet |
 | **Ağ** | Öğretmen ve öğrenci bilgisayarları aynı okul ağında |
-| **İnternet** | Yalnızca deneme sürümünün ilk etkinleştirmesi için |
+| **İnternet** | Yalnızca ilk etkinleştirme için |
 
 ## Kurulum
 
 ### 1. Öğretmen bilgisayarı
 1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Kurulum-x.y.z.exe** dosyasını indirin.
 2. Dosyaya çift tıklayın, lisans sözleşmesini kabul edip kurulumu tamamlayın.
-3. İlk açılışta e-posta adresinizi girip **Etkinleştir** deyin. 15 günlük deneme başlar.
+3. İlk açılışta e-posta adresinizi girip **Etkinleştir** deyin.
 
 > Kurulum dosyası henüz kod imzası taşımadığı için Windows **"Bilinmeyen yayıncı"** uyarısı gösterebilir:
 > **Ek bilgi › Yine de çalıştır** ile devam edin.
@@ -52,16 +52,14 @@
 2. Oluşan **tek kurulum dosyasını** USB bellekle ya da ağ üzerinden öğrenci bilgisayarına taşıyın.
 3. Öğrenci bilgisayarında çalıştırın ve yönetici iznini onaylayın. Bilgisayar birkaç saniye içinde öğretmen ekranında belirir.
 
-## Deneme sürümü
-
-- 15 gün boyunca **tüm özellikler** açıktır.
-- Süre dolunca program kilitlenir; devam etmek için lisans anahtarı gerekir.
-- Bilgisayarın saatini değiştirmek deneme süresini uzatmaz.
+### 3. Android tabletler
+1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Ogrenci-Android-x.y.z.apk** dosyasını tablete indirip kurun (Android 7 ve üstü).
+2. Uygulamayı açıp istenen izinleri verin; tablet aynı ağdaki öğretmen bilgisayarını kendiliğinden bulur.
 
 ## Gizlilik
 
 Öğrenci verileri (adlar, sınav sonuçları, ekran görüntüleri) **okulunuzun ağından dışarı çıkmaz**; ekran görüntüleri kaydedilmez,
-öğrencinin tuş vuruşları asla kaydedilmez. Deneme etkinleştirmesinde yalnızca e-posta adresi ve bilgisayarın donanım kimliği lisans
+öğrencinin tuş vuruşları asla kaydedilmez. Etkinleştirmede yalnızca e-posta adresi ve bilgisayarın donanım kimliği lisans
 sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 
 ## Dosyayı doğrulama
