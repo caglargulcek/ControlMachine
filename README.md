@@ -13,6 +13,21 @@
 
 ---
 
+## Videolar
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=G7eo515SNTE"><img src="https://img.youtube.com/vi/G7eo515SNTE/hqdefault.jpg" alt="Control Machine tanıtım videosu" width="100%"></a><br>
+      <b>▶️ <a href="https://www.youtube.com/watch?v=G7eo515SNTE">Tanıtım videosu</a></b>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=TfmHmHJCdUk"><img src="https://img.youtube.com/vi/TfmHmHJCdUk/hqdefault.jpg" alt="Control Machine kurulum videosu" width="100%"></a><br>
+      <b>▶️ <a href="https://www.youtube.com/watch?v=TfmHmHJCdUk">Kurulum videosu</a></b>
+    </td>
+  </tr>
+</table>
+
 ## Neler yapabilirsiniz?
 
 - **Canlı izleme** — Öğrenci ekranlarını ızgara, liste ya da sınıf planı düzeninde anlık görün.
@@ -38,6 +53,8 @@
 | **İnternet** | Yalnızca ilk etkinleştirme için |
 
 ## Kurulum
+
+> Adım adım anlatım için: **[Kurulum videosu](https://www.youtube.com/watch?v=TfmHmHJCdUk)**
 
 ### 1. Öğretmen bilgisayarı
 1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Kurulum-x.y.z.exe** dosyasını indirin.
