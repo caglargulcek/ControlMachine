@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Kurulum-0.1.38.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.39/ControlMachine-Kurulum-0.1.39.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Kurulum-0.1.38.exe"><b>⬇️ ControlMachine-Kurulum-0.1.38.exe indir</b></a><br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Telefon-1.3.3.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Ogrenci-Android-0.1.2.apk">📲 Android öğrenci (tablet) uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.39/ControlMachine-Kurulum-0.1.39.exe"><b>⬇️ ControlMachine-Kurulum-0.1.39.exe indir</b></a><br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.39/ControlMachine-Telefon-1.3.3.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.39/ControlMachine-Ogrenci-Android-0.1.2.apk">📲 Android öğrenci (tablet) uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
@@ -34,6 +34,7 @@
 - **Tek tıkla komut** — Kilitleyin, karartın, sessize alın, duyuru gönderin; tüm sınıfa ya da seçtiğiniz öğrencilere.
 - **Ekran yayını ve uzaktan yardım** — Kendi ekranınızı yansıtın, bir öğrencinin ekranını büyütüp fare ve klavyeyle yardım edin.
 - **Dosya gönder, ödev topla** — Dosya ya da klasör gönderin, ödevleri tek tıkla geri toplayın.
+- **Site ve program aç** — Sık kullandığınız siteleri ve programları kaydedin; derste listeden seçip tek tıkla tüm sınıfta açın.
 - **Sınav** — Soru havuzundan sınav hazırlayın; sonuçlar PDF olarak ve e-Okul için hazır tablo olarak kaydedilir.
 - **Birden çok laboratuvar** — Aynı ağdaki laboratuvarları ayrı sınıflar olarak yönetin; her sınıf yalnız kendi bilgisayarlarını görür.
 - **Zeka Testi** — BİLSEM tarzı, soru başına süreli, geri dönüşsüz test; öğrenci sonunda hatalarını soru soru ve skor tablosunu görür.
