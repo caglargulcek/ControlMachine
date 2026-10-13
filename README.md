@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Kurulum-0.1.38.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Kurulum-0.1.37.exe"><b>⬇️ ControlMachine-Kurulum-0.1.37.exe indir</b></a><br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Telefon-1.3.3.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.37/ControlMachine-Ogrenci-Android-0.1.1.apk">📲 Android öğrenci (tablet) uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Kurulum-0.1.38.exe"><b>⬇️ ControlMachine-Kurulum-0.1.38.exe indir</b></a><br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Telefon-1.3.3.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.38/ControlMachine-Ogrenci-Android-0.1.2.apk">📲 Android öğrenci (tablet) uygulaması</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
