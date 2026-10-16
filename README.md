@@ -90,7 +90,7 @@ Get-FileHash .\ControlMachine-Kurulum-0.1.51.exe -Algorithm SHA256
 
 ## Tam sürüm ve iletişim
 
-- E-posta: **caglargulcek@gmail.com**
+- E-posta: **aydinrobotik@gmail.com**
 - Instagram: **@aydinrobotik**
 
 ---
