@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.49/ControlMachine-Kurulum-0.1.49.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.50/ControlMachine-Kurulum-0.1.50.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.49/ControlMachine-Kurulum-0.1.49.exe"><b>⬇️ ControlMachine-Kurulum-0.1.49.exe indir</b></a><br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.49/ControlMachine-Telefon-1.3.5.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.49/ControlMachine-Ogrenci-Android-0.1.5.apk">📲 Android öğrenci (tablet) uygulaması (beta)</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.50/ControlMachine-Kurulum-0.1.50.exe"><b>⬇️ ControlMachine-Kurulum-0.1.50.exe indir</b></a><br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.50/ControlMachine-Telefon-1.3.5.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.50/ControlMachine-Ogrenci-Android-0.1.6.apk">📲 Android öğrenci (tablet) uygulaması (beta)</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
@@ -85,7 +85,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.1.49.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.1.50.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
