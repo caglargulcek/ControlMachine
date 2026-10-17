@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.52/ControlMachine-Kurulum-0.1.52.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.53/ControlMachine-Kurulum-0.1.53.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.52-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.53-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.52/ControlMachine-Kurulum-0.1.52.exe"><b>⬇️ ControlMachine-Kurulum-0.1.52.exe indir</b></a><br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.52/ControlMachine-Telefon-1.3.6.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.52/ControlMachine-Ogrenci-Android-0.1.7.apk">📲 Android öğrenci (tablet) uygulaması (beta)</a> · <a href="../../releases/latest">Sürüm notları</a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.53/ControlMachine-Kurulum-0.1.53.exe"><b>⬇️ ControlMachine-Kurulum-0.1.53.exe indir</b></a><br>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.53/ControlMachine-Telefon-1.3.7.apk">📱 Öğretmen telefon uygulaması</a> · <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.53/ControlMachine-Ogrenci-Android-0.1.8.apk">📲 Android öğrenci (tablet) uygulaması (beta)</a> · <a href="../../releases/latest">Sürüm notları</a>
 </p>
 
 ---
@@ -85,7 +85,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.1.52.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.1.53.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
