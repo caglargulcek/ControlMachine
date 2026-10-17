@@ -36,7 +36,7 @@ etmiş olursunuz. Kabul etmiyorsanız kurulumu iptal edin ve Yazılımı kullanm
    Bu koşulları ihlal etmeniz durumunda lisansınız kendiliğinden sona erer.
 
 7) İLETİŞİM
-   Instagram: @aydinrobotik      E-posta: caglargulcek@gmail.com
+   Instagram: @aydinrobotik      E-posta: aydinrobotik@gmail.com
 
 Bu sözleşmeyi kabul ediyorsanız "Sözleşmeyi kabul ediyorum" seçeneğini işaretleyip devam edin.
 ```
