@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Kurulum-0.1.54.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Pardus-Ogretmen-0.1.54.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Pardus-Kurulum-0.1.54.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Android-Ogretmen-1.3.8.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Android-Ogrenci-0.1.9.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
