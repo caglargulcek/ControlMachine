@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.54/ControlMachine-Kurulum-0.1.54.exe"><img src="afis.png" alt="Control Machine — Windows için indir" width="100%"></a>
+  <a href="../../releases/latest"><img src="afis.png" alt="Control Machine — Windows ve Pardus" width="100%"></a>
 </p>
 
 <p align="center">
