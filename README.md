@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.79-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.80-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.79/ControlMachine-Kurulum-0.1.79.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.79/ControlMachine-Pardus-Kurulum-0.1.79.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.80/ControlMachine-Kurulum-0.1.80.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.80/ControlMachine-Pardus-Kurulum-0.1.80.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.79/ControlMachine-Android-Ogretmen-1.3.11.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.79/ControlMachine-Android-Ogrenci-0.1.15.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.80/ControlMachine-Android-Ogretmen-1.3.11.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.80/ControlMachine-Android-Ogrenci-0.1.15.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -94,7 +94,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.1.79.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.1.80.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
