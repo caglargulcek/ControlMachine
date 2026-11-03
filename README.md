@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.84-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.85-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.84/ControlMachine-Kurulum-0.1.84.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.84/ControlMachine-Pardus-Kurulum-0.1.84.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.85/ControlMachine-Kurulum-0.1.85.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.85/ControlMachine-Pardus-Kurulum-0.1.85.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.84/ControlMachine-Android-Ogretmen-1.3.11.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.84/ControlMachine-Android-Ogrenci-0.1.15.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.85/ControlMachine-Android-Ogretmen-1.3.11.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.85/ControlMachine-Android-Ogrenci-0.1.15.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -50,7 +50,7 @@
 - **Pardus'ta uzaktan oturum** — Giriş ekranındaki bilgisayarlarda tek tıkla ya da kullanıcı adı ve parolayla oturum açın, oturumu kapatın.
 - **Bilgisayar adları** — Bilgisayarlara PC01, "Kütüphane" gibi adlar verin; ad kilit ekranında istediğiniz yerde, boyutta ve renkte görünür.
 - **Öğretmen profilleri** — Aynı laboratuvarı kullanan öğretmenler tek tıkla geçiş yapar; raporlar ve sınavlar herkesin kendi klasöründe.
-- **Öğrenci menüsü** — Öğrenci adı iste (ad kartı her öğrencide hemen açılır), adları sıfırla / kilitle, söz hakkı, yıldızlar ve yoklama tek yerde.
+- **Öğrenci menüsü** — Öğrenci adı iste (ad kartı her öğrencide hemen açılır), adları sıfırla / kilitle, statü çubuğu aç/kapa, yoklama, söz hakkı ve yıldızlar tek yerde.
 - **Duyuruda Kopyala** — Kod, bağlantı ya da komut gönderin; öğrenci tek tıkla kendi panosuna kopyalar.
 - **Satranç** — Öğren, bilgisayara ya da arkadaşına karşı oyna; Serbest, Arkadaşınla ve Turnuva kipleri, canlı takip.
 - **Code Machine** — Ortaokul ve lise için algoritma oyunları ve kodlama etkinlikleri.
@@ -97,7 +97,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.1.84.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.1.85.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
