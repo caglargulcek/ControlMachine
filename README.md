@@ -15,6 +15,8 @@
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
+> 🐧 **Yeni: Pardus 25 desteği.** Pardus MEB LAB (ETAP 25), ETAP 23.4 ve Pardus 23 ile çalışır.
+
 ---
 
 ## Videolar
@@ -60,8 +62,8 @@
 
 | | |
 |---|---|
-| **Öğretmen bilgisayarı** | Windows 10 / 11 (64 bit) ya da Pardus |
-| **Öğrenci bilgisayarları** | Windows 10 / 11, Pardus ya da Android 7 ve üstü tablet |
+| **Öğretmen bilgisayarı** | Windows 10 / 11 (64 bit) ya da Pardus 23 / 25 |
+| **Öğrenci bilgisayarları** | Windows 10 / 11, Pardus 23 / 25 ya da Android 7 ve üstü tablet |
 | **Ağ** | Öğretmen ve öğrenci bilgisayarları aynı okul ağında |
 | **İnternet** | Yalnızca ilk etkinleştirme için |
 
