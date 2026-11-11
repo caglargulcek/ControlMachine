@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.1.98-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.2.0-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.98/ControlMachine-Kurulum-0.1.98.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.98/ControlMachine-Pardus-Kurulum-0.1.98.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.0/ControlMachine-Kurulum-0.2.0.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.0/ControlMachine-Pardus-Kurulum-0.2.0.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.98/ControlMachine-Android-Ogretmen-1.3.12.apk"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.1.98/ControlMachine-Android-Ogrenci-0.1.16.apk"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
+  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -85,7 +85,7 @@
 3. Öğrenci bilgisayarında çalıştırın ve yönetici iznini onaylayın. Bilgisayar birkaç saniye içinde öğretmen ekranında belirir.
 
 ### 3. Android tabletler
-1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Android-Ogrenci-x.y.z.apk** dosyasını tablete indirip kurun (Android 7 ve üstü).
+1. Sitemizin [Uygulamalar](https://controlmachine.com.tr/#uygulama) bölümünden **Android öğrenci uygulamasını** tablete indirip kurun (Android 7 ve üstü).
 2. Uygulamayı açıp istenen izinleri verin; tablet aynı ağdaki öğretmen bilgisayarını kendiliğinden bulur.
 
 ## Gizlilik
@@ -99,7 +99,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.1.98.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.2.0.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
