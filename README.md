@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.2.1-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.2.2-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.1/ControlMachine-Kurulum-0.2.1.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.1/ControlMachine-Pardus-Kurulum-0.2.1.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.2/ControlMachine-Kurulum-0.2.2.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.2.2/ControlMachine-Pardus-Kurulum-0.2.2.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
   <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
   <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
@@ -99,7 +99,7 @@ sunucusuna iletilir. Ayrıntılar: [LİSANS](LISANS.md).
 Her sürümün notlarında kurulum dosyasının **SHA-256** özeti yazar. PowerShell ile kontrol edebilirsiniz:
 
 ```powershell
-Get-FileHash .\ControlMachine-Kurulum-0.2.1.exe -Algorithm SHA256
+Get-FileHash .\ControlMachine-Kurulum-0.2.2.exe -Algorithm SHA256
 ```
 
 ## Tam sürüm ve iletişim
