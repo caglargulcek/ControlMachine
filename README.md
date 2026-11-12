@@ -36,33 +36,33 @@
 
 ## Neler yapabilirsiniz?
 
-👀 **Canlı izleme** — Öğrenci ekranlarını ızgara, liste ya da sınıf planı düzeninde anlık görün; küçük resmin üzerine gelince büyük önizleme açılır.<br>
-🖱️ **Tek tıkla komut** — Kilitleyin, karartın, sessize alın, duyuru gönderin; tüm sınıfa ya da seçtiğiniz öğrencilere.<br>
-📺 **Ekran yayını ve uzaktan yardım** — Kendi ekranınızı yansıtın, bir öğrencinin ekranını büyütüp fare ve klavyeyle yardım edin.<br>
-📶 **Kopmayan bağlantı** — Ağ kısa süreliğine gidip gelse de öğrenci bilgisayarları birkaç saniye içinde kendiliğinden yeniden bağlanır.<br>
-📁 **Dosya gönder, ödev topla** — Dosya ya da klasör gönderin, ödevleri tek tıkla geri toplayın.<br>
-🌐 **Site ve program aç** — Sık kullandığınız siteleri ve programları kaydedin; derste listeden seçip tek tıkla tüm sınıfta açın.<br>
-📝 **Sınav** — Soru havuzundan sınav hazırlayın; sonuçlar PDF olarak ve e-Okul için hazır tablo olarak kaydedilir.<br>
-🏫 **Birden çok laboratuvar** — Aynı ağdaki laboratuvarları ayrı sınıflar olarak yönetin; her sınıf yalnız kendi bilgisayarlarını görür.<br>
-🧠 **Zekâ Testi** — BİLSEM tarzı, soru başına süreli, geri dönüşsüz test; öğrenci sonunda hatalarını soru soru ve skor tablosunu görür.<br>
-🏆 **Yarışmalar ve ünite testleri** — Bilgi, zekâ, klavye ve fare yarışmaları; 5. ve 6. sınıflar için hazır, görselli ünite testleri; canlı skor tablosu.<br>
-🛡️ **Güvenli internet** — İstenmeyen siteleri ve programları engelleyin, uygunsuz kelimelerden haberdar olun.<br>
-🔔 **Ders programı ve zil** — Teneffüste ekranlar kendiliğinden kilitlenir, gün sonunda bilgisayarlar kapanır.<br>
-⚡ **Güç yönetimi** — Bilgisayarları uzaktan açın, yeniden başlatın ya da kapatın; açık ve kapalı bilgisayar sayısı canlı güncellenir.<br>
-📱 **Telefondan yönetim** — Karekodu okutun, sınıfı cebinizden yönetin. Öğretmen uygulaması Android'de (iPhone çok yakında), öğrenci uygulaması Android tablette.<br>
-💻 **Uçbirim ve PowerShell** — Yazdığınız komutu seçili bilgisayarlarda yönetici yetkisiyle çalıştırın (dosya silme, program kurma…); her bilgisayarın sonucu ekrana gelir.<br>
-🗂️ **Masaüstü komutları** — Masaüstü simgelerini geri getirin, simgeleri sıralayın.<br>
-🐧 **Pardus'ta uzaktan oturum** — Giriş ekranındaki bilgisayarlarda tek tıkla ya da kullanıcı adı ve parolayla oturum açın, oturumu kapatın.<br>
-🏷️ **Bilgisayar adları** — Bilgisayarlara PC01, "Kütüphane" gibi adlar verin; ad kilit ekranında istediğiniz yerde, boyutta ve renkte görünür.<br>
-🔒 **Kilit ekranı tasarımı** — Hazır tasarımlardan birini seçin ya da okul logosu, mesaj, renk ve Atatürk sözleriyle kendi kilit ekranınızı tasarlayın.<br>
-🎨 **Görünüm** — Gündüz ve gece modu, hazır renk paletleri, arayüz boyutu; tek tıkla standart görünüme dönün.<br>
-👥 **Öğretmen profilleri** — Aynı laboratuvarı kullanan öğretmenler tek tıkla geçiş yapar; raporlar ve sınavlar herkesin kendi klasöründe.<br>
-🙋 **Öğrenci menüsü** — Öğrenci adı iste (ad kartı her öğrencide hemen açılır), adları sıfırla / kilitle, statü çubuğu aç/kapa, yoklama, söz hakkı ve yıldızlar tek yerde.<br>
-📋 **Duyuruda Kopyala** — Kod, bağlantı ya da komut gönderin; öğrenci tek tıkla kendi panosuna kopyalar.<br>
-♟️ **Satranç** — Öğren, bilgisayara ya da arkadaşına karşı oyna; Serbest, Arkadaşınla ve Turnuva kipleri, canlı takip.<br>
-🧩 **Code Machine** — Ortaokul ve lise için algoritma oyunları ve kodlama etkinlikleri.<br>
-🔄 **Kolay güncelleme** — Program kendini güncel tutar; öğrenci bilgisayarları güncellemeyi öğretmen konsolundan alır.<br>
-🖥️ **Windows, Pardus ve Android** — Windows öğrenci bilgisayarları, Pardus akıllı tahtalar ve Android tabletler desteklenir.
+- 👀 **Canlı izleme** — Öğrenci ekranlarını ızgara, liste ya da sınıf planı düzeninde anlık görün; küçük resmin üzerine gelince büyük önizleme açılır.
+- 🖱️ **Tek tıkla komut** — Kilitleyin, karartın, sessize alın, duyuru gönderin; tüm sınıfa ya da seçtiğiniz öğrencilere.
+- 📺 **Ekran yayını ve uzaktan yardım** — Kendi ekranınızı yansıtın, bir öğrencinin ekranını büyütüp fare ve klavyeyle yardım edin.
+- 📶 **Kopmayan bağlantı** — Ağ kısa süreliğine gidip gelse de öğrenci bilgisayarları birkaç saniye içinde kendiliğinden yeniden bağlanır.
+- 📁 **Dosya gönder, ödev topla** — Dosya ya da klasör gönderin, ödevleri tek tıkla geri toplayın.
+- 🌐 **Site ve program aç** — Sık kullandığınız siteleri ve programları kaydedin; derste listeden seçip tek tıkla tüm sınıfta açın.
+- 📝 **Sınav** — Soru havuzundan sınav hazırlayın; sonuçlar PDF olarak ve e-Okul için hazır tablo olarak kaydedilir.
+- 🏫 **Birden çok laboratuvar** — Aynı ağdaki laboratuvarları ayrı sınıflar olarak yönetin; her sınıf yalnız kendi bilgisayarlarını görür.
+- 🧠 **Zekâ Testi** — BİLSEM tarzı, soru başına süreli, geri dönüşsüz test; öğrenci sonunda hatalarını soru soru ve skor tablosunu görür.
+- 🏆 **Yarışmalar ve ünite testleri** — Bilgi, zekâ, klavye ve fare yarışmaları; 5. ve 6. sınıflar için hazır, görselli ünite testleri; canlı skor tablosu.
+- 🛡️ **Güvenli internet** — İstenmeyen siteleri ve programları engelleyin, uygunsuz kelimelerden haberdar olun.
+- 🔔 **Ders programı ve zil** — Teneffüste ekranlar kendiliğinden kilitlenir, gün sonunda bilgisayarlar kapanır.
+- ⚡ **Güç yönetimi** — Bilgisayarları uzaktan açın, yeniden başlatın ya da kapatın; açık ve kapalı bilgisayar sayısı canlı güncellenir.
+- 📱 **Telefondan yönetim** — Karekodu okutun, sınıfı cebinizden yönetin. Öğretmen uygulaması Android'de (iPhone çok yakında), öğrenci uygulaması Android tablette.
+- 💻 **Uçbirim ve PowerShell** — Yazdığınız komutu seçili bilgisayarlarda yönetici yetkisiyle çalıştırın (dosya silme, program kurma…); her bilgisayarın sonucu ekrana gelir.
+- 🗂️ **Masaüstü komutları** — Masaüstü simgelerini geri getirin, simgeleri sıralayın.
+- 🐧 **Pardus'ta uzaktan oturum** — Giriş ekranındaki bilgisayarlarda tek tıkla ya da kullanıcı adı ve parolayla oturum açın, oturumu kapatın.
+- 🏷️ **Bilgisayar adları** — Bilgisayarlara PC01, "Kütüphane" gibi adlar verin; ad kilit ekranında istediğiniz yerde, boyutta ve renkte görünür.
+- 🔒 **Kilit ekranı tasarımı** — Hazır tasarımlardan birini seçin ya da okul logosu, mesaj, renk ve Atatürk sözleriyle kendi kilit ekranınızı tasarlayın.
+- 🎨 **Görünüm** — Gündüz ve gece modu, hazır renk paletleri, arayüz boyutu; tek tıkla standart görünüme dönün.
+- 👥 **Öğretmen profilleri** — Aynı laboratuvarı kullanan öğretmenler tek tıkla geçiş yapar; raporlar ve sınavlar herkesin kendi klasöründe.
+- 🙋 **Öğrenci menüsü** — Öğrenci adı iste (ad kartı her öğrencide hemen açılır), adları sıfırla / kilitle, statü çubuğu aç/kapa, yoklama, söz hakkı ve yıldızlar tek yerde.
+- 📋 **Duyuruda Kopyala** — Kod, bağlantı ya da komut gönderin; öğrenci tek tıkla kendi panosuna kopyalar.
+- ♟️ **Satranç** — Öğren, bilgisayara ya da arkadaşına karşı oyna; Serbest, Arkadaşınla ve Turnuva kipleri, canlı takip.
+- 🧩 **Code Machine** — Ortaokul ve lise için algoritma oyunları ve kodlama etkinlikleri.
+- 🔄 **Kolay güncelleme** — Program kendini güncel tutar; öğrenci bilgisayarları güncellemeyi öğretmen konsolundan alır.
+- 🖥️ **Windows, Pardus ve Android** — Windows öğrenci bilgisayarları, Pardus akıllı tahtalar ve Android tabletler desteklenir.
 
 ## Sistem gereksinimleri
 
