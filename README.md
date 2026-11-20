@@ -24,12 +24,12 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=G7eo515SNTE"><img src="https://img.youtube.com/vi/G7eo515SNTE/hqdefault.jpg" alt="Control Machine tanıtım videosu" width="100%"></a><br>
-      <b>▶️ <a href="https://www.youtube.com/watch?v=G7eo515SNTE">Tanıtım videosu</a></b>
+      <a href="https://www.youtube.com/watch?v=_0t_614xOsc"><img src="https://img.youtube.com/vi/_0t_614xOsc/hqdefault.jpg" alt="Control Machine tanıtım videosu" width="100%"></a><br>
+      <b>▶️ <a href="https://www.youtube.com/watch?v=_0t_614xOsc">Tanıtım videosu</a></b>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=TfmHmHJCdUk"><img src="https://img.youtube.com/vi/TfmHmHJCdUk/hqdefault.jpg" alt="Control Machine kurulum videosu" width="100%"></a><br>
-      <b>▶️ <a href="https://www.youtube.com/watch?v=TfmHmHJCdUk">Kurulum videosu</a></b>
+      <a href="https://www.youtube.com/watch?v=UnuAWytbrUM"><img src="https://img.youtube.com/vi/UnuAWytbrUM/hqdefault.jpg" alt="Control Machine kurulum videosu" width="100%"></a><br>
+      <b>▶️ <a href="https://www.youtube.com/watch?v=UnuAWytbrUM">Kurulum videosu</a></b>
     </td>
   </tr>
 </table>
@@ -75,7 +75,7 @@
 
 ## Kurulum
 
-> Adım adım anlatım için: **[Kurulum videosu](https://www.youtube.com/watch?v=TfmHmHJCdUk)**
+> Adım adım anlatım için: **[Kurulum videosu](https://www.youtube.com/watch?v=UnuAWytbrUM)**
 
 ### 1. Öğretmen bilgisayarı
 1. [Son sürüm](../../releases/latest) sayfasından **ControlMachine-Kurulum-x.y.z.exe** dosyasını indirin.
