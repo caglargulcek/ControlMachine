@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="../../releases/latest"><img src="afis.png" alt="Control Machine — Windows ve Pardus" width="100%"></a>
+  <a href="../../releases/latest"><img src="afis.png?v=2" alt="Control Machine — Windows ve Pardus" width="100%"></a>
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.6/ControlMachine-Kurulum-0.3.6.exe"><img src="gorseller/indir-windows.png" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.6/ControlMachine-Pardus-Kurulum-0.3.6.deb"><img src="gorseller/indir-pardus.png" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.6/ControlMachine-Kurulum-0.3.6.exe"><img src="gorseller/indir-windows.png?v=2" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.6/ControlMachine-Pardus-Kurulum-0.3.6.deb"><img src="gorseller/indir-pardus.png?v=2" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
-  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogretmen.png" alt="Android Öğretmen indir" width="276"></a>
-  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogrenci.png" alt="Android Öğrenci indir" width="276"></a>
+  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogretmen.png?v=2" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogrenci.png?v=2" alt="Android Öğrenci indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
 
@@ -24,11 +24,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=_0t_614xOsc"><img src="https://img.youtube.com/vi/_0t_614xOsc/hqdefault.jpg" alt="Control Machine tanıtım videosu" width="100%"></a><br>
+      <a href="https://www.youtube.com/watch?v=_0t_614xOsc"><img src="gorseller/video-tanitim.png" alt="Control Machine tanıtım videosu" width="100%"></a><br>
       <b>▶️ <a href="https://www.youtube.com/watch?v=_0t_614xOsc">Tanıtım videosu</a></b>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.youtube.com/watch?v=UnuAWytbrUM"><img src="https://img.youtube.com/vi/UnuAWytbrUM/hqdefault.jpg" alt="Control Machine kurulum videosu" width="100%"></a><br>
+      <a href="https://www.youtube.com/watch?v=UnuAWytbrUM"><img src="gorseller/video-kurulum.png" alt="Control Machine kurulum videosu" width="100%"></a><br>
       <b>▶️ <a href="https://www.youtube.com/watch?v=UnuAWytbrUM">Kurulum videosu</a></b>
     </td>
   </tr>
