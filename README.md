@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.6-5B5BF0?style=for-the-badge" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.6-1F6FEB?style=for-the-badge&labelColor=0B2A5B" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
