@@ -10,7 +10,8 @@
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.12/ControlMachine-Kurulum-0.3.12.exe"><img src="gorseller/indir-windows.png?v=2" alt="Windows Öğretmen indir" width="400"></a>
   <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.12/ControlMachine-Pardus-Kurulum-0.3.12.deb"><img src="gorseller/indir-pardus.png?v=2" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
-  <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogretmen.png?v=2" alt="Android Öğretmen indir" width="276"></a>
+  <a href="https://play.google.com/store/apps/details?id=tr.classcontrol.classcontrol_mobile"><img src="gorseller/indir-android-ogretmen.png?v=3" alt="Android Öğretmen: Google Play" width="276"></a>
+  <a href="https://apps.apple.com/tr/app/control-machine-%C3%B6%C4%9Fretmen/id6834175312"><img src="gorseller/indir-ios-ogretmen.png?v=1" alt="iPhone Öğretmen: App Store" width="276"></a>
   <a href="https://controlmachine.com.tr/#uygulama"><img src="gorseller/indir-android-ogrenci.png?v=2" alt="Android Öğrenci indir" width="276"></a>
   <br><a href="../../releases/latest">Sürüm notları</a>
 </p>
@@ -49,7 +50,7 @@
 - 🛡️ **Güvenli internet** — İstenmeyen siteleri ve programları engelleyin, uygunsuz kelimelerden haberdar olun.
 - 🔔 **Ders programı ve zil** — Teneffüste ekranlar kendiliğinden kilitlenir, gün sonunda bilgisayarlar kapanır.
 - ⚡ **Güç yönetimi** — Bilgisayarları uzaktan açın, yeniden başlatın ya da kapatın; açık ve kapalı bilgisayar sayısı canlı güncellenir.
-- 📱 **Telefondan yönetim** — Karekodu okutun, sınıfı cebinizden yönetin. Öğretmen uygulaması Android'de (iPhone çok yakında), öğrenci uygulaması Android tablette.
+- 📱 **Telefondan yönetim** — Karekodu okutun, sınıfı cebinizden yönetin. Öğretmen uygulaması [Google Play](https://play.google.com/store/apps/details?id=tr.classcontrol.classcontrol_mobile) ve [App Store](https://apps.apple.com/tr/app/control-machine-%C3%B6%C4%9Fretmen/id6834175312) üzerinden edinilebilir; öğrenci uygulaması Android tablette çalışır.
 - 💻 **Uçbirim ve PowerShell** — Yazdığınız komutu seçili bilgisayarlarda yönetici yetkisiyle çalıştırın (dosya silme, program kurma…); her bilgisayarın sonucu ekrana gelir.
 - 🗂️ **Masaüstü komutları** — Masaüstü simgelerini geri getirin, simgeleri sıralayın.
 - 🐧 **Pardus'ta uzaktan oturum** — Giriş ekranındaki bilgisayarlarda tek tıkla ya da kullanıcı adı ve parolayla oturum açın, oturumu kapatın.
