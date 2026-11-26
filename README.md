@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.23-1F6FEB?style=for-the-badge&labelColor=0B2A5B" alt="Son sürüm"></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/badge/son%20s%C3%BCr%C3%BCm-v0.3.24-1F6FEB?style=for-the-badge&labelColor=0B2A5B" alt="Son sürüm"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.23/ControlMachine-Kurulum-0.3.23.exe"><img src="gorseller/indir-windows.png?v=2" alt="Windows Öğretmen indir" width="400"></a>
-  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.23/ControlMachine-Pardus-Kurulum-0.3.23.deb"><img src="gorseller/indir-pardus.png?v=2" alt="Pardus Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.24/ControlMachine-Kurulum-0.3.24.exe"><img src="gorseller/indir-windows.png?v=2" alt="Windows Öğretmen indir" width="400"></a>
+  <a href="https://github.com/caglargulcek/ControlMachine/releases/download/v0.3.24/ControlMachine-Pardus-Kurulum-0.3.24.deb"><img src="gorseller/indir-pardus.png?v=2" alt="Pardus Öğretmen indir" width="400"></a>
   <br>
   <a href="https://play.google.com/store/apps/details?id=tr.classcontrol.classcontrol_mobile"><img src="gorseller/indir-android-ogretmen.png?v=3" alt="Android Öğretmen: Google Play" width="276"></a>
   <a href="https://apps.apple.com/tr/app/control-machine-%C3%B6%C4%9Fretmen/id6834175312"><img src="gorseller/indir-ios-ogretmen.png?v=1" alt="iPhone Öğretmen: App Store" width="276"></a>
